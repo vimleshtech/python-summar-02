@@ -1,0 +1,113 @@
+Today's Topics
+======================
+->Python's Applications? and why python?
+->Python Environment 
+->Programing Basics
+->Data Type 
+->Input and Output
+->Operator 
+->Condition 
+->Loop 
+
+Python's Applications? and why python?
+========================================
+->DataAnalytics
+	-Data Reporting
+	-MIS
+	-Visualization 
+	-Automation 
+->Data Science
+->Machine Learning
+->AI
+->Deep Learning
+->Web Development 
+	-Flask
+	-DJango
+->Automation Testing
+	-Selenium
+->Ethical Hacking and IT Security
+->Cloud and Infra Automation (such as AWS etc.)
+
+
+What is python?
+	-> Python is open source (free) progaraming language 
+	-> Python is plateform independent (works on all operating system)
+	-> Python is interpreter based language(line by line execution of code)
+	-> Python is indentation based langauage  
+	-> Python is light weight and less syntaxical 
+
+
+Python Environment 
+===========================
+Version :
+	3.7		* latest 
+	3.6		* stable 
+	3.5
+	..
+	..
+	2.7
+	
+Editor:
+	Python Shell/Command Line 
+		>>>
+	Python IDLE
+		python script/code/statement should be saved with .py extension 
+
+	Other Editor:
+		-Jupyter 
+		-VSCode
+		-Pycharm
+		-Eclipse 
+		etc.
+		
+		
+Programing Basics
+=======================
+	#	Single line comment
+	'''	multiple line comment
+	'''
+	"""	multiple line comment
+	"""
+
+	''	string
+	""	string 
+	[]	list
+	()	tuple , function
+	{}	dict, set 
+	:	block of statement which can use with if condition, loop ,function, 			class, try except etc.
+
+	Note :
+		Python does allocate memory automatically
+		a =11 #int
+		a ='ff' #str
+Data Type 
+===============
+int		a =44	
+float		a =54.5
+str		a ='ff' or a ="ssh"
+bool		a = True / False
+list		l = [11,22,3]
+tuple		t = (11,22,4)
+dict		d ={1:'one','a':'alpha'}
+set		s ={'iphone','dove','iphone'}
+
+
+
+There are following functions:
+	type(data/var)	#return data type
+	input('msg')  #read data from console , default type is string
+	print(msg/var) #print / show to user to console 
+	  
+
+
+Loop : is iterator or repeation of interations
+=======================
+Types of loop:
+	i. while loop
+	ii. for loop 
+	
+
+
+
+
+		
